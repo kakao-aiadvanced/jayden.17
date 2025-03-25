@@ -73,3 +73,7 @@ coverage.xml
 
 # pytest
 .pytest_cache/ 
+
+# Cursor
+.cursor/
+.cursorignore
